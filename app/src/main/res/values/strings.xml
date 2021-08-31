@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Da App</string>
+    <string name="buttonLabel">Increment</string>
+    <string name="center_text">Hello Kittyyyy!</string>
+    <string name="newText">Namaskar Birallll</string>
+    <string name="button2Label">decrement</string>
+</resources>
