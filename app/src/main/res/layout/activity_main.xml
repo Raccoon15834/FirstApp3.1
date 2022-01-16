@@ -54,65 +54,7 @@
             android:text="@string/button2Label"/>
     </androidx.constraintlayout.widget.ConstraintLayout>
     <!--basic layouts- relative, linear, grid, scroll and constraint-->
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="300dp"
-        app:layout_constraintTop_toBottomOf="@id/buttonPanel"
-        app:layout_constraintLeft_toLeftOf="parent">
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginRight="20dp"
-        android:layout_marginLeft="20dp"
-        android:orientation="vertical">
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:padding="5dp"
-            android:textSize="20sp"
-            android:shadowRadius="5.0"
-            android:shadowColor="@color/purple_200"
-            android:background="@color/white"/>
-        <CheckBox
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white"
-            android:text="Yes"/>
-        <CheckBox
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white"
-            android:text="No"/>
 
-        <CheckBox
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Maybe"
-            android:textColor="@color/white" />
 
-        <CheckBox
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white"
-            android:text="ZZZZzzzz"/>
-
-        <CheckBox
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Idek"
-            android:textColor="@color/white" />
-
-        <CheckBox
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="@color/white"
-            android:text="Whaaa?"/>
-    </LinearLayout>
-    </ScrollView>
-    </LinearLayout>
-
-</androidx.constraintlayout.widget.ConstraintLayout>
-    <!--xml is a html-like language. Can create your own tags! Cross platform transfer of info-->
+    </androidx.constraintlayout.widget.ConstraintLayout>
+        <!--xml is a html-like language. Can create your own tags! Cross platform transfer of info-->

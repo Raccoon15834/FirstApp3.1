@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/speak"
+        android:title="A"
+        app:showAsAction="always" />
+    <item android:id="@+id/memorize"
+        android:title="B"
+        app:showAsAction="always"/>
+    <item android:id="@+id/home"
+        android:title="C"
+        app:showAsAction="always"/>
+
+</menu>
