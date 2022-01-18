@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
         Uri uri = Uri.parse(vidPath1);
         mv1.setVideoURI(uri);
         //btn1.setZ(10);
+        mv1.setZOrderOnTop(true);
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

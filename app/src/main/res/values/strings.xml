@@ -17,4 +17,12 @@
     <string name="Ltxt23">In general just add an -er to the end of a word as if it were an apostrophe-s. Ownership pronouns also follow a similar pattern, ending in r. This is equivalent to saying “their”, “my”, or “your”. “His” and “her” are the same because there is no gender differentiation.</string>
     <string name="Lsub24">Putting It All Together</string>
     <string name="Ltxt24">In Bengali there is no need for an “is”, “am”, or “are” verbs. Simply omit such “to be” words and you can already form full sentences with adjectives.</string>
+    <string name="title3">Verbs Present Progressive Tense and Simple Sentences</string>
+    <string name="Ltxt31">"Verbs in Bengali must be conjugated. There are only three for each tense though, and it stays the same for every verb. Continue to substitute nouns in English, and just get comfortable with the rhythm of speech. For present tense let's use walk as an example:  "</string>
+    <string name="Ltxt33">Subject + Object + Verb</string>
+    <string name="Lsub31">Simple sentences</string>
+    <string name="Ltxt34">"It is very common practice to omit the subject though, because it is implied by how the verb is said. So simply - “Hospitale hatchi”, “Hospitale hatcho”, and “Hospitale hatcche” "</string>
+    <string name="Lsub32">Negation after verb</string>
+    <string name="Ltxt35">"Prepositions and conjunctions in Bengali work exactly the same as in English.Here is a good time to start doing vocabulary.  "</string>
+    <string name="Lsub33">Prepositions and conjunctions</string>
 </resources>
